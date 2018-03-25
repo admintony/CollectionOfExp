@@ -9,4 +9,7 @@
 │   ├── iis6.py  # poc 会在目标主机弹出一个calc.exe
 │   ├── iis6_1.py  # 检测目标主机是否存在漏洞
 ├── Shellshock.py  #Shellshock漏洞利用工具
+├── PHPCMSV9  # phpcms v9 漏洞集合
+│   ├── phpcmsv9.6.0Getshell.py  # phpcms v9.6.0 getshell脚本
+│   ├── phpcmsv9.6.2_injection.py   # phpcms v9.6.2 注入脚本
 ```
